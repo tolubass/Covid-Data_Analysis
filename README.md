@@ -30,8 +30,8 @@ Hence, it is now clear that coronavirus is a global concerned taht should be ana
 
 **Aim**:
 
-My aim of doing this project is to get valuable meaning and insight of how the covid-19 rate has incraesed or reduced cross teh countries.
-also to know the trend of death/recovered/active cases and to compare all togther
+My aim of doing this project is to get valuable meaning and insight of how the covid-19 rate has increased or reduced cross some countries.
+also to know the trend of death/recovered/active cases and to compare all together
 
 **Source of data**:
 
@@ -58,9 +58,11 @@ The analysis was done using python programming language, on jupiter notebook for
 
 **Data Cleaning**:
 
-After downloading teh data from kaggle, i needed to clean the data in order to perform an Exploratory data analysis. First i checked for missing data and i also renamed soem columns, i also needed to remove some columns which i dont need. 
+After downloading teh data from kaggle, i needed to clean the data in order to perform an Exploratory data analysis. First i checked for missing data and i also renamed some columns and finally i also needed to remove some columns which i don't need. 
 
 **Conclusion**
-After analysing the data i finally came to a conclusion that:
+
+After analysing the data i finally came to a conclusion that;
+
 United state had the highest number of death cases followed by brazil, mexico and united kingdom...
-Countries such as brazil, US, indian has the highest rate of new cases while the countries that ahs teh highest number of active cases are US, brazil, indian, united kingdom,Russia southAfrica, columbia,france,canada...
+Countries such as brazil, US, indian has the highest rate of new cases while the countries that has the highest number of active cases are US, brazil, indian, united kingdom,Russia southAfrica, columbia,france,canada...
